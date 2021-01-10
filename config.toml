@@ -1,14 +1,12 @@
 baseurl = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Hugo Theme Dream"
+title = "DevGin"
 theme = "hugo-theme-dream"
 
-# copyright = ""
+googleAnalytics = ""
 
-# googleAnalytics = ""
-
-# disqusShortname = ""
+disqusShortname = ""
 
 # enableRobotsTXT = true
 
@@ -17,49 +15,42 @@ theme = "hugo-theme-dream"
   # backgroundImage = "/me/background.jpg"
   linkColor = "seagreen"
 
-  author = "Yue Yang"
+  author = "Mark Gingrass"
   # description = ""
   avatar = "/img/avatar.jpg"
-  motto = "Motto"
-  # categoriesLimitInHeader = 6
-  # headerBottomText = ""
+  motto = "Development"
 
   # rss = true
 
   # utterancesRepo = ""
-
-  # valine = true
-  # LEANCLOUD_APP_ID = ""
-  # LEANCLOUD_APP_KEY = ""
   
-  email = "g1enyy0ung@gmail.com"
-  # twitter = ""
+  email = "mark.gingrass@gmail.com"
+  twitter = "MarkGingrass"
   # facebook = ""
   # instagram = ""
-  # mastodon = ""
-  # linkedin = ""
-  # github = ""
+  linkedin = "markgingrass/"
+  github = "mtgingrass"
   # stackoverflow = ""
   # codepen = ""
 
-  siteStartYear = 2016
+  siteStartYear = 2021
 
   # favicon = "/favicon.ico"
 
-  # highlightjs = true
-  # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
-  # highlightjsExtraLanguages = ["ocaml"]
-  # highlightjsTheme = "gruvbox-light"
-  # highlightjsThemeDark = "gruvbox-dark"
-
-  # search
-  # enableSearch = true
-
   # options
-  # showSummaryCoverInPost = true
-  # hasTwitterEmbed = true
+  showSummaryCoverInPost = true
 
   # dark mode
   darkLinkColor = "darkseagreen"
   darkNav = true 
   dark404 = true
+  
+  highlightjsVersion = "9.12.0"
+  highlightjsCDN = "//cdnjs.cloudflare.com/ajax/libs"
+  highlightjsLang = ["r", "yaml"]
+  highlightjsTheme = "github"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
