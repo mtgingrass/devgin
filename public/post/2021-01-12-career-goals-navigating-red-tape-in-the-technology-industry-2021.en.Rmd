@@ -13,7 +13,7 @@ summary: In this article, I am going to share ways to start your year off right 
 
 So, I am a little late for 2021 career goals. It&#39;s well past the first week of 2021. That&#39;s okay, it&#39;s never too late to start. Do you want to land your dream job or get promoted? How about a career change? No matter what your motivation is, establishing goals will set you up for success.
 
-![Girl studying on laptop. ](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/laptop-3087585_640.jpg)
+<p align = "center">![Girl studying on laptop. ](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/laptop-3087585_640.jpg)</p>
 
 In this article, I am going to share ways to start your year off right with some high-tech career goal advice. Especially within the tech industry, where there are record-level employment opportunities.
 
@@ -23,7 +23,8 @@ I didn&#39;t realize this at first, but anyone can get into the technology busin
 
 ## Red Tape in the Tech Industry
 
-![Red Tape Barrior](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/barrier-4968002_640.jpg)
+<p align="center">![Red Tape Barrior](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/barrier-4968002_640.jpg)</p>
+
 Believe it, or not, navigating red tape is fundamental in the tech industry. Some of you may know how to program a &quot;hello world&quot; console application using a dozen different languages. That&#39;s fine and dandy, but in the world of big tech, learning how the Enterprise systems work is where it&#39;s at. I&#39;ll explain more in the next few paragraphs.
 
 First, take a step back. Look at the big picture. What systems do you have in place today? Can you name all the interconnected systems? Do you know how they communicate with each other? How often do they synchronize data? What are the inputs and outputs of each system? Why is each system even necessary? You see, learning the big picture view of the entire Enterprise is worth a lot.
