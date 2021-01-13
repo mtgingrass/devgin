@@ -23,6 +23,7 @@ I didn&#39;t realize this at first, but anyone can get into the technology busin
 
 ## Red Tape in the Tech Industry
 
+![Red Tape Barrior](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/barrier-4968002_640.jpg)
 Believe it, or not, navigating red tape is fundamental in the tech industry. Some of you may know how to program a &quot;hello world&quot; console application using a dozen different languages. That&#39;s fine and dandy, but in the world of big tech, learning how the Enterprise systems work is where it&#39;s at. I&#39;ll explain more in the next few paragraphs.
 
 First, take a step back. Look at the big picture. What systems do you have in place today? Can you name all the interconnected systems? Do you know how they communicate with each other? How often do they synchronize data? What are the inputs and outputs of each system? Why is each system even necessary? You see, learning the big picture view of the entire Enterprise is worth a lot.
