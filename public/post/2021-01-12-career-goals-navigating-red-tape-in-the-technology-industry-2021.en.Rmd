@@ -10,8 +10,18 @@ categories:
 tags: []
 summary: In this article, I am going to share ways to start your year off right with some high-tech career goal advice. Especially within the tech industry, where there are record-level employment opportunities.
 ---
-
+<style>
+#border_1 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: blue;
+}
+</style>
 So, I am a little late for 2021 career goals. It&#39;s well past the first week of 2021. That&#39;s okay, it&#39;s never too late to start. Do you want to land your dream job or get promoted? How about a career change? No matter what your motivation is, establishing goals will set you up for success.
+
+<p id="border_1">As an Amazon Associate I earn from qualifying purchases. At no extra cost to the consumer, I get commissions for purchases made through links in this post.</p>
 
 <p align = "center">![Girl studying on laptop. ](/post/2021-01-12-career-goals-navigating-red-tape-in-the-technology-industry-2021.en_files/laptop-3087585_640.jpg)</p>
 
