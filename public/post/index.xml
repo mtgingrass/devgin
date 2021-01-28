@@ -6,10 +6,19 @@
     <description>Recent content in Posts on DevGin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contracts Overview - Cradle to Grave</title>
+      <link>/post/contracts-overview-cradle-to-grave/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/contracts-overview-cradle-to-grave/</guid>
+      <description>Evaluation of Contract Proposals within the Government – a simple example. Let’s get straight to the point. You have a bona fide business need. There is a pain-point in the business community that can be solved with some Commercial Off the Shelf (COT) technology. You do the research and discover a certain software brand name that can solve the problem. How do you go from zero, nada, scratch, to an implemented solution?</description>
+    </item>
     
     <item>
       <title>Career Goals &amp; Navigating Red Tape in the Technology Industry 2021</title>
