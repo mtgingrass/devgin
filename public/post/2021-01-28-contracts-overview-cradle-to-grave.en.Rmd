@@ -9,10 +9,18 @@ tags: []
 summary: You have a bona fide business need. There is a pain-point in the business community that can be solved with some Commercial Off the Shelf (COT) technology. You do the research and discover a certain software brand name that can solve the problem. How do you go from zero, nada, scratch, to an implemented solution?
 ---
 
+<style>
+#border_1 {
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: blue;
+}
+</style>
+
 Evaluation of Contract Proposals within the Government -- a simple example.
 --------------------------------------------------------------------------
-
-<p align="center">![Woman sitting with piggy bank spilled](/post/2021-01-28-contracts-overview-cradle-to-grave.en_files/contract-945619_640.jpg)</p>
 
 Let's get straight to the point. You have a bona fide business need. There is a pain-point in the business community that can be solved with some Commercial Off the Shelf (COT) technology. You do the research and discover a certain software brand name that can solve the problem. How do you go from zero, nada, scratch, to an implemented solution? In this article, I will give an example of how this process works, from cradle-to-grave. This is a higher-level overview and not comprehensive. Each step in this article can be expanded to pages of content; however, I will paint broad strokes and just give a high-level overview of the process.
 
@@ -27,8 +35,11 @@ First things first. You can't do anything without money planned -- a budget, or 
 <p align="center"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=173419815X&asins=173419815X&linkId=fe225616b71c13362f6f20e359684f1d&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe>
     
+    
     <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=B014SZY9T0&asins=B014SZY9T0&linkId=4883777c60d5a728d9a0d06d9ac3659e&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe></p>
+    </iframe>
+    
+</p>
 
 Requirements Gathering
 ----------------------
@@ -77,8 +88,9 @@ Send Package to the Contracting Team
 
 Cross your T's and dot your I's and send the package to the contracting team. The contracting team will put the legal jargon into the SOW/PWS and double-check everything is good for a solicitation. There is usually a little bit of back and forth with questions between the contracting team and your internal team. This is normal. The contracting team does not understand your particular needs as well as you do. Once everything is good, the contracting team will solicit the contract to the public, or to the vendors on the BPA/IDIQ. Most likely, the contracting team will ask you how you plan on evaluating the proposals. How do you know which vendor is the right choice? This means you may have to have already come up with a method of evaluation. The contracting team will allow the vendors to respond to the Request for Quote (RFQ) -- the solicitation. This can range from 15 days to 60 days and sometimes much longer, depending on the total value of the contract. Imagine a response to building the B-2 Bomber? That response might take months to years.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1634594444&asins=1634594444&linkId=20b4d3b46b86c4b06252a028f9843c9c&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+<p align="center"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=1634594444&asins=1634594444&linkId=20b4d3b46b86c4b06252a028f9843c9c&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe>
+</p>
 
 Evaluate the Proposals and Make Recommendation
 ----------------------------------------------
