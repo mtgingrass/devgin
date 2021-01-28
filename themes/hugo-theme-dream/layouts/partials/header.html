@@ -17,7 +17,7 @@
       {{ if .Site.Params.headerTitle }}
         {{- .Site.Params.headerTitle -}}
       {{ else }}
-        {{- .Site.Params.author -}}{{- T "blogAlias" -}}
+        {{- .Site.Params.author -}}{{}}
       {{ end }}
       <div class="sub header" style="margin-top: 0.5rem;">{{- .Site.Params.motto -}}</div>
     {{ if or (hasPrefix .RelPermalink "/posts") (hasPrefix .RelPermalink "/tags") (hasPrefix .RelPermalink "/categories") }}
