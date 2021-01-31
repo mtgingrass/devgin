@@ -6,10 +6,19 @@
     <description>Recent content in Career on DevGin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/career/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IT Software Development without Project Managers</title>
+      <link>/post/it-software-development-without-project-managers/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/it-software-development-without-project-managers/</guid>
+      <description>Who will to do all the administrative work that goes with running projects? Far too many projects start with the lack of a team and lack of project managers.</description>
+    </item>
     
     <item>
       <title>Career Goals &amp; Navigating Red Tape in the Technology Industry 2021</title>
