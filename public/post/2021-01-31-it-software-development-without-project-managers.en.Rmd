@@ -52,6 +52,8 @@ Next, start inviting your colleagues to the relevant meetings. Have the meeting 
 
 Your boss&#39;s priorities are frequently changing. You have to communicate with the boss and let them know the situation. Don&#39;t be afraid to reiterate how your projects success will help the organizational goals. Don&#39;t be afraid to tell them you need more support. This is not a weakness. In fact, it takes a leader to be willing to ask for help. You are in this role for a reason. You have what it takes to figure problems out and come up with solutions. Part of figuring out the issue may require asking questions and asking for support. If the boss is concerned, then that just means your project is crucial, and they know it. You&#39;re more likely to gain supervisions support if they feel they had a hand in a decision. Let them own part of this project, too.
 
+![four people bumping fists](/post/2021-01-31-it-software-development-without-project-managers.en_files/paper-3213924_640.jpg)
+
 Once you have your boss&#39;s attention, make it a routine. Give them weekly status updates on your projects. Emphasize, once again, that you need more human resources on this project in order to make it more successful.
 
 ## Delegate, delegate, delegate
@@ -69,7 +71,7 @@ There are many other ways to delegate. The point is, don&#39;t be afraid to dele
     </iframe><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=B00UVXZCPO&asins=B00UVXZCPO&linkId=43901c5caf0eda0a96222ef182dd35c0&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe></p>
 
-The on caveat to delegation is not to delegate financial or strategic decision making to the contractors. This should be held in-house, internally, only.
+The one caveat to delegation is not to delegate financial or strategic decision making to the contractors. This should be held in-house, internally, only.
 
 # Gather feedback and keep trying
 
