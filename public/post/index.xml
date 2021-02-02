@@ -6,10 +6,19 @@
     <description>Recent content in Posts on DevGin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Two-Year Vs Base Year and Option Contract</title>
+      <link>/post/two-year-vs-base-year-and-option-contract/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/two-year-vs-base-year-and-option-contract/</guid>
+      <description>#border_1 { border-style: dashed; border-width: 3px; border-left-width: 3px; border-right-width: 3px; border-color: blue; }  Two Year vs Base Year + Option Year – Subtle but Important Difference. Often, you want a contract that is only for a one-year period of performance (POP). Sometimes you want a one-year period of performance with an option to extend a second year. Finally, a third option would be, a two-year POP billed annually.</description>
+    </item>
     
     <item>
       <title>IT Software Development without Project Managers</title>
