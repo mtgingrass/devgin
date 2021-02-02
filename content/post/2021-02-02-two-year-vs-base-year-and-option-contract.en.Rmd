@@ -5,6 +5,7 @@ date: '2021-02-02'
 slug: two-year-vs-base-year-and-option-contract
 categories: []
 tags: []
+summary: To assume less risk, the government likes to have the option to have the second year or not. It's up to the government. This is the preferred method. it's a win for the government and it will speed up the acquisition process because if the government does wish to exercise that option, it will cost almost no administrative burden to do it.
 ---
 
 <style>
@@ -35,7 +36,7 @@ There are people with years of experience with creating government acquisition p
 
 After you solicit to the public and receive the responding proposals. You would then evaluate those proposals and choose a clear winner. Depending on the type of work and how long it's been solicited and what type of contract vehicle you utilized, you may have anywhere from a single bid to 20 or 30 different bids! You might need a team of people to evaluate. You may not. In the example to follow, it's literally simply a license for using certain software. In this case, you might have a single evaluator or maybe just a couple of people from your team doing the evaluation.
 
-For more details about contracts, check out <a href="post/contracts-overview-cradle-to-grave/">this article</a> I wrote.
+For more details about contracts, check out <a href="/post/contracts-overview-cradle-to-grave/">this article</a> I wrote.
 
 Two Year vs one Year and Option
 -------------------------------
