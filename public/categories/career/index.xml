@@ -6,10 +6,19 @@
     <description>Recent content in Career on DevGin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/career/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Get to the Point - Software vs. Power Point Presentations</title>
+      <link>/post/get-to-the-point-software-vs-power-point-presentations/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/get-to-the-point-software-vs-power-point-presentations/</guid>
+      <description>I see presentation after presentation about how good their software is or their customized solution to their problem. However, they never get to the point and show me how to solve my problem.</description>
+    </item>
     
     <item>
       <title>IT Software Development without Project Managers</title>

@@ -1,6 +1,6 @@
 ---
 title: IT Software Development without Project Managers
-author: ''
+author: 'Mark G'
 cover: /post/2021-01-31-it-software-development-without-project-managers.en_files/delegate-1971162_640.jpg
 date: '2021-01-31'
 slug: it-software-development-without-project-managers
