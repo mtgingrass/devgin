@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 title = "DevGin"
 theme = "hugo-theme-dream"
-headerTitle = "Test"
+
 googleAnalytics = "G-QC9LEQ5FG6"
 disqusShortname = ""
 
@@ -17,7 +17,7 @@ disqusShortname = ""
   author = ""
   # description = ""
   avatar = "/img/avatar.png"
-  motto = "Development"
+  motto = "DevGin"
 
   # rss = true
 
