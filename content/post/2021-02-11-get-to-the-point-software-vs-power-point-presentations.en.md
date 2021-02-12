@@ -18,11 +18,19 @@ summary: I see presentation after presentation about how good their software is 
     border-right-width: 3px;
     border-color: blue;
 }
+
+#aside {
+    border: 10px solid #fad73d;
+    border-radius: 25px;
+    padding: 40px 40px 20px;
+    margin-bottom: 20px;
+}
 </style>
 
 ## Get to the Point
 
-During all these presentations in meetings that we all have, I wish people would get straight to the point! Far too often, I see presentation after presentation about how good their software is or their customized solution to their problem. However, they never get to the point and show me how to solve my problem. In this article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!
+<p id="aside">
+During all these presentations in meetings that we all have, I wish people would get straight to the point! Far too often, I see presentation after presentation about how good their software is or their customized solution to their problem. However, they never get to the point and show me how to solve my problem. In this article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!</p>
 
 Far too often presenters like to give you the long form agenda. Then they like to give a screenshot of the software they are promoting. One static screenshot after another static screenshot of the software. Then, they don't get to what the software does until towards the end of the presentation. This is driving me insane!
 
