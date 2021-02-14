@@ -1,6 +1,7 @@
 ---
 title: Two-Year Vs Base Year and Option Contract
 author: 'Mark G'
+cover: /post/2021-02-02-two-year-vs-base-year-and-option-contract.en_files/contract with option year.jpg
 date: '2021-02-02'
 slug: two-year-vs-base-year-and-option-contract
 categories: []
