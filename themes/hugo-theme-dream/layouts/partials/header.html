@@ -106,7 +106,7 @@
       <p>© {{ now.Year }} {{ .Site.Title }}</p>
     {{ end }}
 
-    <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> with theme <a href="https://github.com/g1eny0ung/hugo-theme-dream" target="_blank">Dream</a>.</p>
+{{ partial "mailchimp/subscribe.html" . }}
 
     {{ if .Site.Params.headerBottomText }}
       <p>{{ .Site.Params.headerBottomText | safeHTML }}</p>
