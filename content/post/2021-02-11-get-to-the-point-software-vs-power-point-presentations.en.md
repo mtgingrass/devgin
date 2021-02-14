@@ -1,7 +1,7 @@
 ---
 title: Get to the Point - Software vs. Power Point Presentations
 author: Mark G
-cover: /post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/pencil-4969979_640.jpg
+cover: /post/2021-02-02-two-year-vs-base-year-and-option-contract.en_files/get to the point.jpg
 date: '2021-02-11'
 slug: get-to-the-point-software-vs-power-point-presentations
 categories:
