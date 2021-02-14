@@ -22,7 +22,7 @@ summary: I see presentation after presentation about how good their software is 
 #aside {
     border: 10px solid #fad73d;
     border-radius: 25px;
-    padding: 40px 40px 20px;
+    padding: 20px 20px 20px;
     margin-bottom: 20px;
 }
 </style>
@@ -30,7 +30,9 @@ summary: I see presentation after presentation about how good their software is 
 ## Get to the Point
 
 <p id="aside">
-During all these presentations in meetings that we all have, I wish people would get straight to the point! Far too often, I see presentation after presentation about how good their software is or their customized solution to their problem. However, they never get to the point and show me how to solve my problem. In this article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!</p>
+I wish people would get straight to the point! Far too often, I see presentation after presentation about how good <i>their</i> software is or their customized solution to <i>their</i> problem. They <b>never</b> get to the point and insted, demonstrate how to solve their own problems.</p>
+
+In this article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!
 
 Far too often presenters like to give you the long form agenda. Then they like to give a screenshot of the software they are promoting. One static screenshot after another static screenshot of the software. Then, they don't get to what the software does until towards the end of the presentation. This is driving me insane!
 
@@ -49,7 +51,8 @@ For example, if you were talking about a software solution that can OCR or Objec
 It's time we skip the B.S. Open the software and run it - in front of me. That's right double click on the icon for the software you're trying to sell me and convince me that this is a solution to my organization's problem. Run the software. It's that easy. Again, just run the software on an example of representative data, or even better if you want to really impress me, as the purse string, for buying this software, ask me for representative data that you can scan as an example. Then, during the presentation, you run the software. Don't show me a PowerPoint with the example that I gave you, and subsequently, show me the static output. Run the software - that's how you sell software to an organization. I'm sorry if this is not the way that it is out there. However, everybody's time is valuable. Get to the point.
 
 ![CPU Photo](/post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/cpu-564771_640.jpg)
-Image by <a href="https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Michael Schwarzenberger</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Pixabay</a>
+
+<p align="center">Image by <a href="https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Michael Schwarzenberger</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Pixabay</a></p>
 
 
 This is a common problem I see throughout many meetings and presentations - even demonstrations. One way to overcome this is to present by getting straight to the point. I don't want to see an agenda unless it's literally two or three bullet points and you can speak it very fast (I know why I am here). I want to get to the point of what problem are you going to solve for my organization.  So, during your own presentation start doing this. Start showing the solution to a problem, in real-time.
