@@ -67,7 +67,7 @@
       <article class="main">{{ replace .Content "<!--adsense-->" (partial "adsense-inarticle.html" .) | safeHTML }} <!-- {{ .Content | emojify }} --> </article>
     </section>
     
-    {{ partial "zoho/subscribe.html" . }}
+    {{ partial "mailchimp/subscribe.html" . }}
 
     <footer class="ui attached segment dream-tags" data-html2canvas-ignore>
       {{ if isset .Params "tags" }}
