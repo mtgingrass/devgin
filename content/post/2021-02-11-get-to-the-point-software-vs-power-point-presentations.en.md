@@ -25,20 +25,45 @@ summary: I see presentation after presentation about how good their software is 
     padding: 20px 20px 20px;
     margin-bottom: 20px;
 }
+
+#center_1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 </style>
 
 ## Get to the Point
 
 <p id="aside">
-I wish people would get straight to the point! Far too often, I see presentation after presentation about how good <i>their</i> software is or their customized solution to <i>their</i> problem. They <b>never</b> get to the point and insted, demonstrate how to solve their own problems.</p>
+Get straight to the point! Far too often, I am presented with slide after slide about how good <i>their</i> software is, or their customized solution to <i>their</i> problem. They <b>never</b> get to the point. Show me the software</p>
 
-In this article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!
+In this <del>rant</del> article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!
 
-Far too often presenters like to give you the long form agenda. Then they like to give a screenshot of the software they are promoting. One static screenshot after another static screenshot of the software. Then, they don't get to what the software does until towards the end of the presentation. This is driving me insane!
+There are plenty of bad presentation habbits to choose from. Here is a list of just a few:
+
+1.  Starting Late
+2.  Malfunctioning Equipment
+3.  Apologizing
+4.  Boring Slides
+5.  Goin on a Tangent
+
+The list goes on, and on. However, I want to focus on one of my favorite ones. 
+
+<p>Far too often, presenters like to give the long form agenda. Then they give a screenshot of the software they are promoting. One static screenshot after another static screenshot of the software. They don't seem to get to what the software solution is even soloving until towards the end of the presentation.</p>
 
 ## Example
 
-For example, if you were talking about a software solution that can OCR or Object Character Recognize a PDF file into an editable format, normally the presenter would start by showing an agenda. Then they would show some of the high-level architecture of what's going on and how to set this up in a production-like environment. Then, the presenter would display diagrams and pictures and throw all kinds of buzzwords over the slide. Finally, they'll have pictures or diagrams showing what the output would be if you run the software.
+<p id="center_1">
+
+![diagram with multiple blocks presented without logical flow](/post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/statistic-1564428_640.png)
+
+</p>
+
+<B>The problem statement:</B> The organization needs to scan PDF files and make them editable in an editor. <BR><BR>
+
+Normally, the presenter would start by displaying a clear agenda. Then, they would show some of the high-level hardware or software architecture. Perhaps, even a diagram about how to set this system up in a production-like environment. Then, the presenter would display diagrams and pictures and throw all kinds of buzzwords over the slide. Finally, they'll have pictures and diagrams displaying what the output should be if you actually run the software.
 
 <p id="border_1">As an Amazon Associate I earn from qualifying purchases. At no extra cost to the consumer, I get commissions for purchases made through links in this post.</p>
 
