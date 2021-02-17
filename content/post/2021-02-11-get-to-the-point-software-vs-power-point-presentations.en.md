@@ -11,6 +11,13 @@ summary: I see presentation after presentation about how good their software is 
 ---
 
 <style>
+<style type="text/css">
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+
 #border_1 {
     border-style: dashed;
     border-width: 3px;
@@ -85,7 +92,9 @@ That's right, double click on the icon for the software you're trying to sell, a
 
 Don't present a PowerPoint slide with the example data that you were provided, and subsequently, show the static output. <b>Run the software</b> - that's how you impress an organization. Time is valuable. Get to the point.
 
-![CPU Photo](/post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/cpu-564771_640.jpg)
+<img src="/post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/cpu-564771_640.jpg" class="centerImage" alt="CPU Image">
+
+<!--![CPU Photo](/post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/cpu-564771_640.jpg)-->
 
 
 <p align="center">Image by <a href="https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Michael Schwarzenberger</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Pixabay</a></p>
