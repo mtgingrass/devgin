@@ -50,7 +50,7 @@ There are plenty of bad presentation habbits to choose from. Here is a list of j
 4.  Boring Slides
 5.  Goin on a Tangent
 
-The list goes on, and on. However, I want to focus on one of my favorite ones. 
+The list goes on, and on. However, I want to focus on one of my biggest pet peeves. 
 
 <p>Far too often, presenters like to give the long form agenda. Then they give a screenshot of the software they are promoting. One static screenshot after another static screenshot of the software. They don't seem to get to what the software solution is even solving until towards the end of the presentation.</p>
 
