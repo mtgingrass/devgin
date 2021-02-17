@@ -61,7 +61,7 @@ The list goes on, and on. However, I want to focus on one of my favorite ones.
 
 </p>
 
-<B>The problem statement:</B> The organization needs to scan PDF files and make them editable in an editor. <BR><BR>
+<B>The problem statement:</B> The organization needs to scan PDF files and make them editable in an editor. <BR>
 
 Normally, the presenter would start by displaying a clear agenda. Then, they would show some of the high-level hardware or software architecture. Perhaps, even a diagram about how to set this system up in a production-like environment. Then, the presenter would display diagrams and pictures and throw all kinds of buzzwords over the slide. Finally, they'll have pictures and diagrams displaying what the output should be if you actually run the software.
 
@@ -73,9 +73,21 @@ Normally, the presenter would start by displaying a clear agenda. Then, they wou
 
 ## Skip the B.S.
 
-It's time we skip the B.S. Open the software and run it - in front of me. That's right double click on the icon for the software you're trying to sell me and convince me that this is a solution to my organization's problem. Run the software. It's that easy. Again, just run the software on an example of representative data, or even better if you want to really impress me, as the purse string, for buying this software, ask me for representative data that you can scan as an example. Then, during the presentation, you run the software. Don't show me a PowerPoint with the example that I gave you, and subsequently, show me the static output. Run the software - that's how you sell software to an organization. I'm sorry if this is not the way that it is out there. However, everybody's time is valuable. Get to the point.
+It's time to skip the B.S. 
+
+<p id="aside">Open the software and run it - in front of me. Live!</p> 
+
+That's right, double click on the icon for the software you're trying to sell me, and convince me that this is a solution to my organization's problem. <B>Run the software.</B> It's that easy. 
+
+<p id="aside">Bonus points - run the software on an example of representative data. Even better, if you want to really impress your presentation audience, or the <i>purse strings</i>, ask for representative data. Then, during the presentation, you run the software on specific data from the organization. </p>
+
+
+Don't present a PowerPoint slide with the example data that you were provided, and subsequently, show the static output. Run the software - that's how you sell software to an organization. However, everybody's time is valuable. Get to the point.
+
+<p id="center_1">
 
 ![CPU Photo](/post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/cpu-564771_640.jpg)
+</p>
 
 <p align="center">Image by <a href="https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Michael Schwarzenberger</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Pixabay</a></p>
 
