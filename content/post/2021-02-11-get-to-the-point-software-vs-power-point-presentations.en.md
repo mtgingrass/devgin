@@ -52,7 +52,7 @@ There are plenty of bad presentation habbits to choose from. Here is a list of j
 
 The list goes on, and on. However, I want to focus on one of my favorite ones. 
 
-<p>Far too often, presenters like to give the long form agenda. Then they give a screenshot of the software they are promoting. One static screenshot after another static screenshot of the software. They don't seem to get to what the software solution is even soloving until towards the end of the presentation.</p>
+<p>Far too often, presenters like to give the long form agenda. Then they give a screenshot of the software they are promoting. One static screenshot after another static screenshot of the software. They don't seem to get to what the software solution is even solving until towards the end of the presentation.</p>
 
 ## Example
 
@@ -78,7 +78,7 @@ It's time to skip the B.S.
 
 <p id="aside">Open the software and run it - in front of me. Live!</p> 
 
-That's right, double click on the icon for the software you're trying to sell me, and convince me that this is a solution to my organization's problem. <B>Run the software.</B> It's that easy. 
+That's right, double click on the icon for the software you're trying to sell, and convince me that this is a solution to my organization's problem. <B>Run the software.</B> It's that easy. 
 
 <p id="aside">Bonus points - run the software on an example of representative data. Even better, if you want to really impress your presentation audience, or the <i>purse strings</i>, ask for representative data. Then, during the presentation, you run the software on specific data from the organization. </p>
 
