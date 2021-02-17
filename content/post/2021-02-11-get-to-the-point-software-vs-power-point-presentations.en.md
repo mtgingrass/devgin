@@ -1,7 +1,7 @@
 ---
 title: Get to the Point - Software vs. Power Point Presentations
 author: Mark G
-cover: /post/2021-02-02-two-year-vs-base-year-and-option-contract.en_files/get to the point.jpg
+cover: /post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/get to the point presentations.jpg
 date: '2021-02-11'
 slug: get-to-the-point-software-vs-power-point-presentations
 categories:
@@ -32,6 +32,7 @@ summary: I see presentation after presentation about how good their software is 
   margin-right: auto;
   width: 50%;
 }
+
 </style>
 
 ## Get to the Point
@@ -82,17 +83,15 @@ That's right, double click on the icon for the software you're trying to sell me
 <p id="aside">Bonus points - run the software on an example of representative data. Even better, if you want to really impress your presentation audience, or the <i>purse strings</i>, ask for representative data. Then, during the presentation, you run the software on specific data from the organization. </p>
 
 
-Don't present a PowerPoint slide with the example data that you were provided, and subsequently, show the static output. Run the software - that's how you sell software to an organization. However, everybody's time is valuable. Get to the point.
-
-<p id="center_1">
+Don't present a PowerPoint slide with the example data that you were provided, and subsequently, show the static output. <b>Run the software</b> - that's how you impress an organization. Time is valuable. Get to the point.
 
 ![CPU Photo](/post/2021-02-11-get-to-the-point-software-vs-power-point-presentations.en_files/cpu-564771_640.jpg)
-</p>
+
 
 <p align="center">Image by <a href="https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Michael Schwarzenberger</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=564771">Pixabay</a></p>
 
 
-This is a common problem I see throughout many meetings and presentations - even demonstrations. One way to overcome this is to present by getting straight to the point. I don't want to see an agenda unless it's literally two or three bullet points and you can speak it very fast (I know why I am here). I want to get to the point of what problem are you going to solve for my organization.  So, during your own presentation start doing this. Start showing the solution to a problem, in real-time.
+This is a common problem I see throughout many presentations during meetings - even so called, live, demonstrations. One way to overcome this is to present by getting straight to the point. I don't want to see an agenda unless it's literally two or three bullet points and you can speak it very fast (I know why I am here). I want to get to the point of what problem are you going to solve for my organization.  So, during your own presentation start doing this. Start showing the solution to a problem, in real-time.
 
 ## Know your Audience
 
