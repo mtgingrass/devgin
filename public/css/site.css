@@ -51,7 +51,7 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 }
 
 .dream-max-width {
-	max-width: 1664px;
+	max-width: 100%; /*1664px;*/
 	margin: 0 auto
 }
 
