@@ -90,15 +90,15 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 }
 
 .ui.menu.dream-menu.dream-socials .item:first-child {
-	padding-left: 0.5rem
+	padding-left: 0 /*0.5rem*/
 }
 
 .ui.menu.dream-menu .item {
-	padding: 0.5rem
+	padding: 0 /*0.5rem*/
 }
 
 .ui.menu.dream-menu .item:first-child {
-	padding-left: 1rem
+	padding-left: 0 /*1rem*/
 }
 
 .ui.menu.dream-menu .item i {
@@ -128,7 +128,7 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 }
 
 .dream-categories .ui.accordion .ui.list .item {
-	padding-left: 1rem
+	padding-left: 0 /*1rem*/
 }
 
 /* was 1rem */
@@ -142,7 +142,7 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 }
 
 .ui.card.dream-card {
-	border-radius: 0.28571429rem !important
+	border-radius: 0/*0.28571429rem*/!important
 }
 
 .ui.card.dream-card.inverted .content .header>a {
