@@ -6,9 +6,37 @@
     <description>Recent content in Tags on DevGin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>backpack</title>
+      <link>/tags/backpack/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/backpack/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laptop</title>
+      <link>/tags/laptop/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/laptop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swissgear</title>
+      <link>/tags/swissgear/</link>
+      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/swissgear/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

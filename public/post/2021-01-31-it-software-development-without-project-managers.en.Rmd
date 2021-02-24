@@ -12,7 +12,7 @@ summary: Who will to do all the administrative work that goes with running proje
 ---
 
 <style>
-#border_1 {
+#border_amazon {
     border-style: dashed;
     border-width: 3px;
     border-left-width: 3px;
