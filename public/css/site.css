@@ -140,6 +140,7 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 	width: 100%
 }
 
+/* BORDER OF SITE WIDTH */
 .ui.card.dream-card {
 	border-radius: 0 /*0.28571429rem*/ !important
 }
