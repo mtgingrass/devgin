@@ -90,7 +90,7 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 }
 
 .ui.menu.dream-menu.dream-socials .item:first-child {
-	padding-left: 0 0.5rem
+	padding-left: 0.5rem
 }
 
 .ui.menu.dream-menu .item {
@@ -131,8 +131,9 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 	padding-left: 1rem
 }
 
+/* was 1rem */
 .dream-grid {
-	margin: rem !important;
+	margin: 0 !important;
 	margin-top: 0 !important
 }
 
@@ -140,7 +141,6 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 	width: 100%
 }
 
-/* BORDER OF SITE WIDTH DID NOT WORK*/
 .ui.card.dream-card {
 	border-radius: 0.28571429rem !important
 }
