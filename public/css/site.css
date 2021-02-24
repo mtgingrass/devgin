@@ -140,9 +140,9 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 	width: 100%
 }
 
-/* BORDER OF SITE WIDTH */
+/* BORDER OF SITE WIDTH DID NOT WORK*/
 .ui.card.dream-card {
-	border-radius: 0 /*0.28571429rem*/ !important
+	border-radius: 0.28571429rem !important
 }
 
 .ui.card.dream-card.inverted .content .header>a {
