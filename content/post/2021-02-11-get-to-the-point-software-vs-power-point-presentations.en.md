@@ -44,7 +44,7 @@ summary: I see presentation after presentation about how good their software is 
 
 ## Get to the Point
 
-<p id="aside">
+<p id="border_blue">
 Get straight to the point! Far too often, I am presented with slide after slide about how good <i>their</i> software is, or their customized solution to <i>their</i> problem. They <b>never</b> get to the point. Show me the software</p>
 
 In this <del>rant</del> article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!

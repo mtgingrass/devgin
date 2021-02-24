@@ -52,8 +52,11 @@ disqusShortname = ""
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
-    unsafe = true
+      unsafe = true
     
 [params.adsense]
 client = "ca-pub-2476238133050345"
 inArticleSlot = "7562449572"
+
+custom_css = ["css/custom.css"]
+custom_js = ["js/custom.js"]

@@ -983,3 +983,12 @@
   margin: 0 .2em .25em -1.6em;
   vertical-align: middle;
 }
+
+
+/* Mark Gingrass Custom CSS */
+#border_blue {
+  border: 10px solid #0000FF;
+  border-radius: 25px;
+  padding: 20px 20px 20px;
+  margin-bottom: 20px;
+}
