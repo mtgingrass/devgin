@@ -54,9 +54,8 @@ I posted this video a few years ago. So many people commented and said there wer
 
 <div class="videoWrapper">
   <!-- Copy & Pasted from YouTube -->
-  <iframe width="560" height="349" src="http://www.youtube.com/embed/VTTnRMyFkB8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VTTnRMyFkB8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 
 The ScanSmart 1900 laptop backpack also has two water bottle pockets which I use constantly. Actually, I use one pocket for a water bottle and the other for my tripod (it has a strap to hold it down pretty good).
