@@ -82,4 +82,7 @@ It has an easy access laptop compartment (side entry) but to be honest, both lap
 
 If you want a camera bag, check out this other review.
 
+<div class="videoWrapper">
+  <!-- Copy & Pasted from YouTube -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RHHsPuBd6CA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
