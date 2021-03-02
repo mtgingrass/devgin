@@ -126,7 +126,7 @@ h4,
 h1,
 .modest-h1 {
   margin-top: 0;
-  font-size: 3.998rem;
+  font-size: 1.998rem;
 }
 
 h2,
@@ -1215,10 +1215,10 @@ code {
   margin: 0 .2em .25em -1.6em;
   vertical-align: middle;
 }
-
+*/
 
 /* Mark Gingrass Custom CSS */
-/*
+
 #border_blue {
   border: 10px solid #0000FF;
   border-radius: 25px;
@@ -1241,6 +1241,7 @@ code {
     border-color: blue;
 }
 
+/*
 blockquote.style3 {
   font: 18px/30px normal Tahoma, sans-serif;
   padding-top: 22px;
@@ -1273,7 +1274,7 @@ blockquote.style4 {
   text-indent: 23px;
 }
 
-
+*/
 
 HTML CSS JSResult Skip Results Iframe
 EDIT ON
@@ -1299,9 +1300,7 @@ html {
   height: 100%;
 }
 
-body {
-  text-align: center;
-}
+
 blockquote {
    color: black;
    position: relative;
@@ -1309,4 +1308,3 @@ blockquote {
    padding: 0 5px;
    margin: 0px auto;
 }
-*/
