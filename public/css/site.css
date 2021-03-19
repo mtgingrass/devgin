@@ -3,7 +3,7 @@ body {
 	background-position: center;
 	background-size: cover;
 	font-size: 16px;
-	padding-left: 1000;
+	padding: 0;
 	margin: 0;
 }
 
@@ -132,7 +132,7 @@ body .os-host>.os-padding>.os-viewport>.os-content {
 }
 
 .dream-categories .ui.accordion .ui.list .item {
-	padding-left: 1rem;
+	padding-left: 0 /*1rem*/
 }
 
 /* was 1rem */

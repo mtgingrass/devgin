@@ -1,5 +1,5 @@
 ---
-title: Government Career - E1 to GS-14 (My Path)
+title: Advance your Government Career - E1 to GS-14 (My Path)
 author: Mark G
 date: '2021-03-13'
 slug: government-career-e1-to-gs-14-my-path
@@ -19,22 +19,29 @@ tags:
   - Regulatory Informatics Specialists
 ---
 
-# A Career Path for Government – from E-1 to GS-14 
+# How to Ddvance in the Government – from E-1 to GS-14 
 
  
-The government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where industry is, and fast. In today’s government, there is a push hiring a tech talented workforce. The government sector really prides itself on hiring and empowering diverse people to deliver better services. One thing is for sure, to innovate, it starts with streamlining the procurement process can ensure quicker adoption to new tech in the industry. In this article, I am going to give a brief description of how I went from soldering parts on a circuit board, to managing millions of dollars of programs and contracting over a quick couple of decades. 
+<p id="border_blue">The government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where industry is, and fast. </p>
+
+In today’s government, there is a push hiring a tech talented workforce. The government sector really prides itself on hiring and empowering diverse people to deliver better services. One thing is for sure, to innovate, it starts with streamlining the procurement process can ensure quicker adoption to new tech in the industry. In this article, I am going to give a brief description of how I went from soldering parts on a circuit board, to managing millions of dollars of programs and contracting over a quick couple of decades. 
 
 I got my start back in 2002, 20 years ago. I started as an Airman in the United States Air Force. I was very ignorant of how the parts on the plane were procured, manufactured, shipped, or tracked. I did not jump into the acquisition side right away.  
 
 ## How Did I get to Where I am Today – The Journey 
 
-I am not going to give a detailed history of my career, but I want to set the stage so others that are in my past positions can see a path forward. The long video version is here, and part 2, is here.  
+I am not going to give a detailed history of my career, but I want to set the stage so others that are in my past positions can see a path forward. The long video version is [here](https://youtu.be/ie2GsudUs38), and part 2, is [here](https://youtu.be/psiBi98xHa0).  
 
 My journey started when I had an opportunity to join a program that allowed Wage Grade (WG) workers convert to the General Schedule (GS). In layman's terms, this means going from a blue-collar worker to a white-collar worker. The program brought me from a WG-12 to a GS-5. I got retain my pay, though. The GS-5 lasted 6 months, then I became a GS-7. GS-7 for one year, then became a GS-9. I was a GS-9 for one year until I got to the programs max level of GS-11. What was this job I sought after? The term is Equipment Specialist, or ES.  
 
+<p id="border_1">As an Amazon Associate I earn from qualifying purchases. At no extra cost to the consumer, I get commissions for purchases made through links in this post.</p>
+
+<p align="center"><iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hatro-20&marketplace=amazon&amp;region=US&placement=0814410995&asins=0814410995&linkId=21bc2361cba5cee37f79d6fb868d6bcc&show_border=true&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe></p>
+
 ## The role of the Equipment Specialist (1670) 
 
-I created a short six-minute video on what I do as an Equipment Specialist. The series, in government terms, is a 1670 series. I’ll link to the video below, as well.  
+I created a short six-minute video on what I do as an [Equipment Specialist](https://youtu.be/z7bCiDDRE38). The series, in government terms, is a 1670 series. I’ll link to the video below, as well.  
 
 In short, I had to be knowledgeable for all aspects of the equipment I was assigned. In my case, it was jet engines. Now, I have never worked on a jet engine before. In fact, I am terrible at anything mechanical. Lucky for me, my job was more on the analytics side of things. You see, the job of an ES on something as complicated as a jet engine requires more than just one ES. We had a team that was split up into two sections. One team was working with the forecasting and the inventories while the other team was working on the technical aspects of the engine. Lucky for me, I was not on the technical side.  
 
