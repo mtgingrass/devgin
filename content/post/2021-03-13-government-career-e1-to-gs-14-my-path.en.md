@@ -19,7 +19,7 @@ tags:
   - Regulatory Informatics Specialists
 ---
 
-# How to Ddvance in the Government – from E-1 to GS-14 
+# How to Advance in the Government – from E-1 to GS-14 
 
  
 <p id="border_blue">The government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where industry is, and fast. </p>
