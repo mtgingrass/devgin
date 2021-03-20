@@ -11,16 +11,6 @@ tags: []
 summary: Who will to do all the administrative work that goes with running projects? Far too many projects start with the lack of a team and lack of project managers.
 ---
 
-<style>
-#border_amazon {
-    border-style: dashed;
-    border-width: 3px;
-    border-left-width: 3px;
-    border-right-width: 3px;
-    border-color: blue;
-}
-</style>
-
 ## IT Software Projects without Project Managers
 
 Getting a project off the ground is a difficult task that requires many resources, including human resources. A common issue I see in large organizations is that they start projects without the proper human resources to manage them. In most organizations, starting a project requires a lot of documentation. However, I noticed one thing lacking - that is, who is going to do all the administrative work that goes with running the projects? Far too many projects start with the lack of a team and lack of project managers.
