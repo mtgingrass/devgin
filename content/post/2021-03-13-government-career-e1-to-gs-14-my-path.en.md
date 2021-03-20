@@ -17,6 +17,7 @@ tags:
   - 1515 series
   - 301 series
   - Regulatory Informatics Specialists
+cover: /post/2021-03-13-government-career-e1-to-gs-14-my-path.en_files/Mark Gingrass Government Photo Retirement.jpg
 ---
 
 # How to Advance in the Government – from E-1 to GS-14 Fast
