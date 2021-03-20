@@ -19,20 +19,21 @@ tags:
   - Regulatory Informatics Specialists
 ---
 
-# How to Advance in the Government – from E-1 to GS-14 
-
+# How to Advance in the Government – from E-1 to GS-14 Fast
  
-<p id="border_blue">The government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where industry is, and fast.</p>
+<p id="border_blue">The government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where industry is, and fast. Want to learn how I advanced my career into this lucrative field? Read on...</p>
 
-In today’s government, there is a push hiring a tech talented workforce. The government sector really prides itself on hiring and empowering diverse people to deliver better services. One thing is for sure, to innovate, it starts with streamlining the procurement process can ensure quicker adoption to new tech in the industry. In this article, I am going to give a brief description of how I went from soldering parts on a circuit board, to managing millions of dollars of programs and contracting over a quick couple of decades. 
+In today’s government, there is a push hiring a tech talented workforce. The government sector really prides itself on hiring and empowering diverse people to deliver better services. One thing is for sure, to innovate, it starts with streamlining the procurement process to ensure quicker adoption to new tech in the industry. In this article, I am going to give a brief description of how I went from soldering parts on a circuit board and Airman, E-1, to managing millions of dollars of programs as a GS-14 over a quick couple of decades. 
 
-I got my start back in 2002, 20 years ago. I started as an Airman in the United States Air Force making about [$1,200 per month (See E-2 pay)](https://www.navycs.com/charts/2002-military-pay-chart.html). I was very ignorant of how the parts on the plane were procured, manufactured, shipped, or tracked. I did not jump into the acquisition side right away. Read on to see how I went from $1,200 per month to over six-figures per year. 
+I got my start back in 2002, 20 years ago. Time flies! I started as an Airman in the United States Air Force making about [$1,200 per month (See E-2 pay)](https://www.navycs.com/charts/2002-military-pay-chart.html). I was very ignorant of how the parts on the plane were procured, manufactured, shipped, or tracked. I did not jump into the acquisition side right away.
 
-## How Did I get to Where I am Today – The Journey 
+## How to get promoted in the Government
 
-I am not going to give a detailed history of my career, but I want to set the stage so others that are in my past positions can see a path forward. The long video version is [here](https://youtu.be/ie2GsudUs38), and part 2, is [here](https://youtu.be/psiBi98xHa0).  
+I am not going to give a detailed history of my entire career. Instead, I want to set the stage so others that are in my past positions can see a path forward. I give a talk about my background and how I advanced within the government in these two long videos [here](https://youtu.be/ie2GsudUs38), and part 2, is [here](https://youtu.be/psiBi98xHa0).  
 
-My journey started when I had an opportunity to join a program that allowed Wage Grade (WG) workers convert to the General Schedule (GS). In layman's terms, this means going from a blue-collar worker to a white-collar worker. The program brought me from a WG-12 to a GS-5. I got retain my pay, though. The GS-5 lasted 6 months, then I became a GS-7. GS-7 for one year, then became a GS-9. I was a GS-9 for one year until I got to the programs max level of GS-11. What was this job I sought after? The term is Equipment Specialist, or ES.  
+My journey started when I had an opportunity to join a program that allowed Wage Grade (WG) workers convert to the General Schedule (GS). In layman's terms, this means going from a blue-collar worker to a white-collar worker. The program brought me from a WG-12 (~$21/hour at the time) to a GS-5. I was able to retain my pay for two years with this program. The GS-5 lasted 6 months, then I became a GS-7. GS-7 for one year, then became a GS-9. I was a GS-9 for one year until I got to the programs max level of GS-11. What was this job I sought after? The term is Equipment Specialist, or ES. Look for similar programs like this. They all change over time so be on the look out. There were programs called PATHWAYS for recent grads too.
+
+These programs usually require a lenghty application process. Don't let that detur you.I repeat, dont let the application process detur you. The fact that it's lenghty is to your advantage. That means more than half the people who wanted to apply for that program, didn't. It's too lenghty for them to bother. You will, of course, usually need supervisory support for these programs. Make it easy for them to sponsor you. Do their work for you and simply have them endorse it. 
 
 <p id="border_1">As an Amazon Associate I earn from qualifying purchases. At no extra cost to the consumer, I get commissions for purchases made through links in this post.</p>
 
