@@ -7,7 +7,7 @@ slug: get-to-the-point-software-vs-power-point-presentations
 categories:
   - Career
 tags: []
-summary: I see presentation after presentation about how good their software is or their customized solution to their problem. However, they never get to the point. They end up showing me how to solve their problem.
+summary: I see presentation after presentation about how good their software is or their customized solution to their own problem. However, they never get to the point. They end up showing me how to solve their problem, not mine.
 ---
 
 <style>
@@ -45,7 +45,7 @@ summary: I see presentation after presentation about how good their software is 
 ## Get to the Point
 
 <p id="border_blue">
-Get straight to the point! Far too often, I am presented with slide after slide about how good <i>their</i> software is, or their customized solution to <i>their</i> problem. They <b>never</b> get to the point. Show me the software</p>
+Get straight to the point! Far too often, I am presented with slide after slide about how good <i>their</i> software is, or their customized solution to <i>their own</i> problem. They <b>never</b> get to the point. Show me the software</p>
 
 In this <del>rant</del> article, I'm going to explain some key problems with today's presentations and some ways to overcome them. We can do better than this!
 
