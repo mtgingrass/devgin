@@ -26,7 +26,7 @@ tags:
 
 In today’s government, there is a push hiring a tech talented workforce. The government sector really prides itself on hiring and empowering diverse people to deliver better services. One thing is for sure, to innovate, it starts with streamlining the procurement process can ensure quicker adoption to new tech in the industry. In this article, I am going to give a brief description of how I went from soldering parts on a circuit board, to managing millions of dollars of programs and contracting over a quick couple of decades. 
 
-I got my start back in 2002, 20 years ago. I started as an Airman in the United States Air Force making about $1,200 per month. I was very ignorant of how the parts on the plane were procured, manufactured, shipped, or tracked. I did not jump into the acquisition side right away. Read on to see how I went from $1,200 per month to over six-figures per year. 
+I got my start back in 2002, 20 years ago. I started as an Airman in the United States Air Force making about [$1,200 per month (See E-2 pay)](https://www.navycs.com/charts/2002-military-pay-chart.html). I was very ignorant of how the parts on the plane were procured, manufactured, shipped, or tracked. I did not jump into the acquisition side right away. Read on to see how I went from $1,200 per month to over six-figures per year. 
 
 ## How Did I get to Where I am Today – The Journey 
 
