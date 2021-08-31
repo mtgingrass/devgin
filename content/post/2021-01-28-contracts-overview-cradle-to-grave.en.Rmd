@@ -10,7 +10,7 @@ date: '2021-01-28'
 slug: contracts-overview-cradle-to-grave
 categories: []
 tags: []
-summary: You have a bona fide business need (a rule of appropriations law). There is a pain-point in the business community that can be solved with some Commercial Off the Shelf (COT) technology. You do the research and discover a certain software brand name that can solve the problem. How do you go from zero, nada, scratch, to an implemented solution?
+summary: You have a bona fide business need (Appropriations Law rule). There is a pain-point in the business community that can be solved with some Commercial Off the Shelf (COT) technology. You do the research and discover a certain software brand name that can solve the problem. How do you go from zero, nada, scratch, to an implemented solution?
 ---
 
 <style>

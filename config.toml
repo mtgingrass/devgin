@@ -1,3 +1,4 @@
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 baseurl = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
