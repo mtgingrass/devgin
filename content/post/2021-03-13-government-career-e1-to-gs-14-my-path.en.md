@@ -23,7 +23,7 @@ summary: How to Advance in the Government – from E-1 to GS-14 Fast. Why is the
 
 # How to Advance in the Government – from E-1 to GS-14 Fast
  
-<p id="border_blue">The government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where the industry is, and fast. Want to learn how I advanced my career into this lucrative field? Read on...</p>
+<p id="border_blue">TEST The government is finally jumping on the emerging technologies bandwagon. The public sector wants to catch up to where the industry is, and fast. Want to learn how I advanced my career into this lucrative field? Read on...</p>
 
 In today’s government, there is a push for hiring a tech talented workforce. The government sector prides itself on hiring and empowering diverse people to deliver better services. One thing is for sure, to innovate, it starts with streamlining the procurement process to ensure quicker adoption of new tech in the industry. In this article, I am going to give a brief description of how I went from soldering parts on a circuit board and Airman, E-1, to managing millions of dollars of programs as a GS-14 over a quick couple of decades. 
 
